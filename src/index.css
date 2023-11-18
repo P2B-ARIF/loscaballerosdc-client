@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Carter+One&family=Josefin+Sans:wght@300;400;500;600;700&family=Lato:ital,wght@0,300;0,400;0,700;0,900;1,700&family=Righteous&family=Satisfy&family=Tiro+Bangla&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+	font-family: "Josefin Sans", sans-serif;
+}
+
+:root {
+	--primary: #eb443c;
+	--secondary: #f3b025;
+	--black: #010000;
+}
+
+/* header {
+	background: url("./assets/header-img.jpg");
+	height: 100vh;
+	width: full;
+	background-position: center;
+	background-size: cover;
+	position: fixed;
+} */

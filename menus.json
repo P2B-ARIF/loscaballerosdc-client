@@ -1,0 +1,379 @@
+[
+	{
+		"name": "Quesadillas",
+		"description": "Flour tortillas stuffed with cheese, green onions, and jalapeño peppers with your choice of chicken, steak, shrimp or any combination. Served with lettuce, pico de gallo, guacamole, and sour cream.",
+		"category": "APPETIZERS",
+		"price": "Cheese- $10.95 / Steak-$14.95 / Chicken- $13.95 / Shrimp-$15.95"
+	},
+	{
+		"name": "Nachos",
+		"description": "Crispy chips, covered with refried beans, melted cheese, with your choice of chicken, steak or any combination. Topped with guacamole, sour cream, and jalapeño peppers",
+		"category": "APPETIZERS",
+		"price": "Cheese- $10.95/Steak-516.95/ Chicken-515.95/ Steak and Chicken-518.95"
+	},
+	{
+		"name": "Guacamole Dip",
+		"description": "A crispy flour tortilla bowl, filled with fresh guacamole, served with flour tortilla chips.",
+		"category": "APPETIZERS",
+		"price": "11.95"
+	},
+	{
+		"name": "Queso Dip",
+		"description": "Mild or spicy homemade cheese dip.",
+		"category": "APPETIZERS",
+		"price": "$9.95"
+	},
+
+	{
+		"name": "Caballero's Camarones",
+		"description": "Shrimp sautéed in our homemade garlic wine sauce.",
+		"category": "APPETIZERS",
+		"price": "$13.95"
+	},
+	{
+		"name": "Chorizo con Queso",
+		"description": "Spanish sausage sautéed with onions and green peppers, topped with melted cheese. Served with warm corn tortillas",
+		"category": "APPETIZERS",
+		"price": "$12.95"
+	},
+	{
+		"name": "Taquitos",
+		"description": "Crispy taquitos, filled with your choice of chicken or beef, served with lettuce, pico de gallo, guacamole, and sour cream.",
+		"category": "APPETIZERS",
+		"price": "$10.95"
+	},
+
+	{
+		"name": "House Salad",
+		"description": "Romaine, spinach, ch, tomatoes. green peppers, hard hard egg, with with your choice of steak or chicken. Served with our homemade dressing.",
+		"category": "SALADS",
+		"price": "Steak-515.95/Chicken-$14.95/Steak and Chicken-517.95"
+	},
+	{
+		"name": "Caballero's Salad",
+		"description": "A crispy flour tortilla bowl, filled with romaine, tomatoes, cheese, house dressing, guacamole, and sour cream and your choice of steak or chicken.",
+		"category": "SALADS",
+		"price": "Steak-$18.95 / Chicken-517.95 / Steak and Chicken-519.95"
+	},
+	{
+		"name": "Burritos",
+		"description": "Flour tortilla, stuffed with your choice of shredded beef or chicken, grilled steak or chicken, or seafood.",
+		"title": "All Burritos and Enchiladas are served with refried beans, rice, lettuce, pico de gallo, guacamole and sour cream.",
+		"category": "BURRITOS Y ENCHILADAS",
+		"price": "Shredded beef or chicken- $15.95/Grilled Chicken-516.95/Grilled Steak-518.95/ Seafood-520.95"
+	},
+	{
+		"name": "Enchiladas",
+		"description": "Com tortillas, stuffed with your choice of cheese, shredded beef or chicken, or seafood. Topped with our homemade sauce and melted cheese.",
+		"category": "BURRITOS Y ENCHILADAS",
+		"price": "Cheese-$14.95/ Shredded beef or chicken-515.95/Seafood-$19.95"
+	},
+	{
+		"name": "Tacos Al Carbon",
+		"title": "All Tacos, Chimichangas, and Flautas are served with refried beans, rice, lettuce, pico de gallo, guacamole and sour cream.",
+		"description": "3 Flour tortillas stuffed with your choice of grilled steak or chicken.",
+		"category": "TACOS, CHIMICHANGAS, FLAUTAS",
+		"price": "Steak- $18.95/Chicken-516.95"
+	},
+	{
+		"name": "Crispy Tacos",
+		"description": "3 Corn taco shells stuffed with your choice of shredded chicken or beef, topped with lettuce, pico de gallo, and cheese.",
+		"category": "TACOS, CHIMICHANGAS, FLAUTAS",
+		"price": "Shredded chicken or Beef-$15.95"
+	},
+	{
+		"name": "Chimichangas",
+		"description": "Rolled lightly fried flour tortilla stuffed with rice, cheese, and your choice of shredded beef or chicken, or seafood.",
+		"category": "TACOS, CHIMICHANGAS, FLAUTAS",
+		"price": "Shredded beef or chicken-515.95/ Seafood-520.95"
+	},
+	{
+		"name": "Flautas",
+		"description": "2 Rolled lightly fried flour tortillas stuffed with your choice of shredded beef or chicken.",
+		"category": "TACOS, CHIMICHANGAS, FLAUTAS",
+		"price": "Shredded beef or chicken-$15.95"
+	},
+	{
+		"name": "Chicken Enchilada and Chicken Taco",
+		"title": "All house combinati ions are served served with refried beans, rice, pico de gallo, guacamole, and sour cream. lettuce,",
+		"description": "",
+		"category": "HOUSE COMBINATIONS",
+		"price": "$15.95"
+	},
+	{
+		"name": "Beef Enchilada and Beef Taco",
+		"description": "",
+		"category": "HOUSE COMBINATIONS",
+		"price": "$15.95"
+	},
+	{
+		"name": "Chile relleno and Chicken Enchilada",
+		"description": "",
+		"category": "HOUSE COMBINATIONS",
+		"price": "$15.95"
+	},
+	{
+		"name": "Chile relleno and Beef Enchilada",
+		"description": "",
+		"category": "HOUSE COMBINATIONS",
+		"price": "$15.95"
+	},
+	{
+		"name": "Caballero's favorite Seafood Enchilada, Chicken Enchilada, Beef Enchilada",
+		"description": "",
+		"category": "HOUSE COMBINATIONS",
+		"price": "$19.95"
+	},
+
+	{
+		"name": "Vegetable fajitas",
+		"title": "All Vegetarian's Favorites are served with refried beans, rice, lettuce, pico de gallo, guacamole and sour cream.",
+		"description": "Sautéed onions, green peppers, zucchini, and tomatoes.",
+		"category": "VEGETARIAN'S FAVORITES",
+		"price": "$14.95"
+	},
+	{
+		"name": "Enchiladas",
+		"description": "Corn tortillas, stuffed with your choice of cheese, or refried beans. Topped with our homemade sauce and melted cheese.",
+		"category": "VEGETARIAN'S FAVORITES",
+		"price": "$14.95"
+	},
+	{
+		"name": "Chimichanga",
+		"description": "Rolled lightly fried flour tortilla stuffed with rice, cheese, and refried beans.",
+		"category": "VEGETARIAN'S FAVORITES",
+		"price": "$14.95"
+	},
+	{
+		"name": "Quesadillas",
+		"description": "Flour tortillas stuffed with monterrey jack and cheddar cheese, or your choice of cheese and spinach.",
+		"category": "VEGETARIAN'S FAVORITES",
+		"price": "$14.95"
+	},
+	{
+		"name": "Chile Rellenos",
+		"description": "Poblano peppers stuffed with monterrey jack cheese, wrapped in our homemade batter. Topped with our homemade ranchera sauce and melted cheese.",
+		"category": "VEGETARIAN'S FAVORITES",
+		"price": "$14.95"
+	},
+	{
+		"name": "Fajitas",
+		"title": "All House Specialties are served with White Rice, and Black Beans except Fajitas. Fajitas are served with flefried beans and Mexican Rice",
+		"description": "Sautéed onions, onions, green peppers, tomatoes, with your choice of grilled steak, chicken, shrim imp or any combination.",
+		"category": "HOUSE SPECIALTIES FAJITAS Y PARRILLADA",
+		"price": "Grilled steak-523.95/ Grilled chicken-$21.95/Shrimp-523.95/ Grilled chicken & Steak- $25.95/ Supreme-$29.95"
+	},
+	{
+		"name": "Caballero's Parrillada",
+		"description": "Combination of chicken and and steak fajitas, pork ribs, and camarones diablos.",
+		"category": "HOUSE SPECIALTIES FAJITAS Y PARRILLADA",
+		"price": "For 1-$29.95 For 2-558.95"
+	},
+	{
+		"name": "Mariscada",
+		"description": "A combination of sauteed shrimp, scallops, salmon, squid, mussels, diced green peppers and onions.",
+		"category": "SEAFOOD",
+		"price": "$27.95"
+	},
+	{
+		"name": "Mariscos Soteados",
+		"description": "A combination of sautéed shrimp, scallops, squid, mussels, onions, green peppers, tomatoes, and cilantro,",
+		"category": "SEAFOOD",
+		"price": "$26.95"
+	},
+	{
+		"name": "Salmon Cancun",
+		"description": "Grilled salmon filet, topped with shrimp, scallops, and our homemade seefood sauce.",
+		"category": "SEAFOOD",
+		"price": "$27.95"
+	},
+	{
+		"name": "Salmon Supremo",
+		"description": "Grilled salmon filet, topped with our homemade seafood mix and our homemade seafood sauce.",
+		"category": "SEAFOOD",
+		"price": "$30.95"
+	},
+	{
+		"name": "Camarones Diablo",
+		"description": "Large shrimp, broiled and topped with our diablo butter sauce.",
+		"category": "SEAFOOD",
+		"price": "$26.95"
+	},
+	{
+		"name": "Camarones Tampico",
+		"description": "Shrimp sautéed with tampico butter sauce, served over white rice and black beans on the side.",
+		"category": "SEAFOOD",
+		"price": "$26.95"
+	},
+	{
+		"name": "Pollo Encebollado",
+		"description": "Grilled chicken breast covered in sauteed onions.",
+		"category": "CHICKEN AND MEATS",
+		"price": "$17.95"
+	},
+	{
+		"name": "Pollo Ranchero",
+		"description": "Grilled chicken breast covered in zucchini, tomatoes, onions, and cilantro.",
+		"category": "CHICKEN AND MEATS",
+		"price": "$18.95"
+	},
+	{
+		"name": "Mar Y Tierra",
+		"description": "12 az Grilled Ribeye Steak, topped with sautéed shrimp, scallops in or homemade garlic butter sauce.",
+		"category": "CHICKEN AND MEATS",
+		"price": "$29.95"
+	},
+	{
+		"name": "Bistec Encebollado",
+		"description": "12 oz Grilled Ribeye Steak, topped with sautéed onions.",
+		"category": "CHICKEN AND MEATS",
+		"price": "$26.95"
+	},
+	{
+		"name": "Lomo Saltado",
+		"description": "Sliced Steak, sautéed in a mixture of tomatoes onions, green peppers, cilantro, jalapeños, and fries.",
+		"category": "CHICKEN AND MEATS",
+		"price": "$27.95"
+	},
+	{
+		"name": "Carne Asada",
+		"description": "Grilled marinated steak served with refried beans, rice, lettuce, pico de gallo, guacamole, and sour cream.",
+		"category": "CHICKEN AND MEATS",
+		"price": "$26.95"
+	},
+
+	{
+		"name": "Margarita",
+		"description": "",
+		"category": "DRINKS",
+		"price": "Glass $10.95 / Half pitcher $24.95 / Pitcher $39.95"
+	},
+	{
+		"name": "Gold Margarita",
+		"description": "",
+		"category": "DRINKS",
+		"price": "Glass $12.95 / Half pitcher $26.95 / Pitcher $41.95"
+	},
+	{
+		"name": "Cadillac",
+		"description": "",
+		"category": "DRINKS",
+		"price": "Glass $14.95 / Half pitcher $32.95 / Pitcher $48.95"
+	},
+	{
+		"name": "Jalapeño Margarita",
+		"description": "",
+		"category": "DRINKS",
+		"price": "Glass $11.95 / Half pitcher $26.95 / Pitcher $41.95"
+	},
+	{
+		"name": "Crocodile Margarita",
+		"description": "",
+		"category": "DRINKS",
+		"price": "Glass $11.95 / Half pitcher $26.95 / Pitcher $41.95"
+	},
+	{
+		"name": "(Patron, Don Julio, Casa Amigos etc) Margarita",
+		"description": "",
+		"category": "DRINKS",
+		"price": "Glass $15.95 / Half pitcher $36.95 / Pitcher $50.95"
+	},
+	{
+		"name": "Frozen Lime, Strawberry, Mango",
+		"description": "",
+		"category": "DRINKS",
+		"price": "Glass $11.95 / Half pitcher $27.95 / Pitcher $46.95"
+	},
+	{
+		"name": "Sangria",
+		"description": "",
+		"category": "DRINKS",
+		"price": "Glass $10.95 / Half pitcher $23.95 / Pitcher $40.95"
+	},
+	{
+		"name": "Caballeros Margarona",
+		"description": "Caballero's favorite! Delicious mega margarita with a coronita.",
+		"category": "DRINKS",
+		"price": "$16.95"
+	},
+	{
+		"name": "Mojitos",
+		"description": "Regular, Strawberry, Mongo, Passionfruit.",
+		"category": "DRINKS",
+		"price": "$11.95"
+	},
+	{
+		"name": "Paloma",
+		"description": "Tequila, grapefruit juice, grapefruit soda, salt.",
+		"category": "DRINKS",
+		"price": "$11.95"
+	},
+	{
+		"name": "Cantarito",
+		"description": "Tequila, orange/ grapefruit/ lime juice, grapefruit soda, tajin.",
+		"category": "DRINKS",
+		"price": "$11.95"
+	},
+	{
+		"name": "Mariposa",
+		"description": "Rum, fresh orange/ pineapple juice, fresh strawberry.",
+		"category": "DRINKS",
+		"price": "$11.95"
+	},
+	{
+		"name": "Imported Beers",
+		"description": "Corona, Corona Light, Dos XX, Modelo, Negra Modelo.",
+		"category": "DRINKS",
+		"price": "$6.95"
+	},
+	{
+		"name": "Domestic Beers",
+		"description": "Bud Light, Miller Light, Budweiser.",
+		"category": "DRINKS",
+		"price": "$5.95"
+	},
+
+	{
+		"name": "Merlot/ Cabernet/ Pinot Grigio/ Chardonnay",
+		"description": "",
+		"category": "HOUSE WINE",
+		"price": "Glass- $9.95"
+	},
+	{
+		"name": "Margaritas",
+		"title": "Mon-Fri / 2:30pm-5:30pm",
+		"description": "",
+		"category": "HAPPY HOUR",
+		"price": "$6.95"
+	},
+	{
+		"name": "Frozen Margaritas",
+		"description": "",
+		"category": "HAPPY HOUR",
+		"price": "$8.95"
+	},
+	{
+		"name": "Cocktails",
+		"description": "",
+		"category": "HAPPY HOUR",
+		"price": "$9.95"
+	},
+	{
+		"name": "Imported beers",
+		"description": "",
+		"category": "HAPPY HOUR",
+		"price": "$5.95"
+	},
+	{
+		"name": "Domestic beers",
+		"description": "",
+		"category": "HAPPY HOUR",
+		"price": "$4.95"
+	},
+	{
+		"name": "SOFT DRINKS",
+		"description": "",
+		"category": "SOFT DRINKS",
+		"price": " $2.95"
+	}
+]
